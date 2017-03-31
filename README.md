@@ -10,7 +10,7 @@ pip install pygame
 pip install terminaltables
 
 
-and xterm
+Furthermore presence of xterm is necessary.
 
 Remember to chmod +x market.py and files in /main/ directory.
 
